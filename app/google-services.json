@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "230563540756",
+    "firebase_url": "https://alumniportal-60b0f.firebaseio.com",
+    "project_id": "alumniportal-60b0f",
+    "storage_bucket": "alumniportal-60b0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230563540756:android:7983066db00f6b288d1c01",
+        "android_client_info": {
+          "package_name": "com.omkarp.alumniportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230563540756-mdrau23vjioodapn3cr5p66tnjite3pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omkarp.alumniportal",
+            "certificate_hash": "70e30b4947eeed24e6fc98dd4550abe1fe358c1e"
+          }
+        },
+        {
+          "client_id": "230563540756-keqne4glitik4pjt175sdtopvp98kcvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjeqOjObEwMWK_l8VKgbHXXEmIhs2GNz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230563540756-keqne4glitik4pjt175sdtopvp98kcvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
